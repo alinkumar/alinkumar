@@ -344,7 +344,10 @@ A predictive analytics solution built to identify high-potential leads using cus
 
 <br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/alinkumar/alinkumar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img
+src="https://raw.githubusercontent.com/alinkumar/alinkumar/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%"/>
 
 </div>
 
