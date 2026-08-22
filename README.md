@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=62&section=header&text=ABOUT%20ME&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=62&section=header&text=ABOUT%20ME&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
 
 </div>
 
@@ -173,7 +173,7 @@ KPI & Reporting
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=62&section=header&text=TECH%20ECOSYSTEM&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=62&section=header&text=TECH%20ECOSYSTEM&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
 
 <br><br>
 
@@ -199,7 +199,7 @@ KPI & Reporting
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=62&section=header&text=CORE%20EXPERTISE&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=62&section=header&text=CORE%20EXPERTISE&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
 
 </div>
 
@@ -258,7 +258,7 @@ KPI & Reporting
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=62&section=header&text=WHAT%20DRIVES%20MY%20WORK&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=62&section=header&text=WHAT%20DRIVES%20MY%20WORK&fontColor=39FF14&fontSize=30&animation=fadeIn"/>
 
 <br><br>
 
@@ -309,7 +309,7 @@ Turn results into useful decisions.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=58&section=header&text=FEATURED%20PROJECTS&fontColor=39FF14&fontSize=28&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=58&section=header&text=FEATURED%20PROJECTS&fontColor=39FF14&fontSize=28&animation=fadeIn"/>
 
 <br><br>
 
@@ -478,13 +478,51 @@ Interactive recruitment dashboard designed to turn hiring data into clear **KPIs
 
 </tr>
 
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ☕ Coffee Sales Analytics Dashboard
+
+**Power BI • Business Intelligence • Data Analytics**
+
+Interactive Power BI dashboard designed to analyze coffee sales performance, product demand, customer ordering patterns, payment behavior, and sales trends.
+
+**Key Metrics**
+
+| Metric | Value |
+|:--|--:|
+| Total Sales | **112.25K** |
+| Average Money | **31.65** |
+| Total Orders | **3,547** |
+| Avg Sales / Day | **294.61** |
+
+**Focus Areas**
+
+`Sales Analysis` · `Product Performance` · `Payment Analysis` · `Time Trends`
+
+`Power BI` `DAX` `Power Query` `Data Analytics`
+
+<br>
+
+<a href="https://github.com/alinkumar/Coffee-Sales-Analytics"><img src="https://img.shields.io/badge/VIEW%20PROJECT-39FF14?style=for-the-badge&labelColor=071A12"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
 
 <div align="center">
 
-`6 PROJECTS` &nbsp;•&nbsp; `ML + AI + BI` &nbsp;•&nbsp; `REAL-WORLD USE CASES`
+`7 PROJECTS` &nbsp;•&nbsp; `ML + AI + BI` &nbsp;•&nbsp; `REAL-WORLD USE CASES`
 
 </div>
 
@@ -502,7 +540,7 @@ Interactive recruitment dashboard designed to turn hiring data into clear **KPIs
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=58&section=header&text=OPEN%20SOURCE%20ACTIVITY&fontColor=39FF14&fontSize=28&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=58&section=header&text=OPEN%20SOURCE%20ACTIVITY&fontColor=39FF14&fontSize=28&animation=fadeIn"/>
 
 <br><br>
 
@@ -521,7 +559,7 @@ width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=58&section=header&text=LET'S%20CONNECT&fontColor=39FF14&fontSize=28&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080A,45:0D1117,72:102A1B,100:39FF14&height=58&section=header&text=LET'S%20CONNECT&fontColor=39FF14&fontSize=28&animation=fadeIn"/>
 
 <br><br>
 
