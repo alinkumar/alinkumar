@@ -516,13 +516,57 @@ Interactive Power BI dashboard designed to analyze coffee sales performance, pro
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ AI Job Search Automation
+
+**Python • Job Discovery • Intelligent Matching**
+
+An automated job-search workflow that gathers opportunities from multiple sources and evaluates them against a candidate profile to help identify relevant, recent roles.
+
+**Key Capabilities**
+
+`Multi-Source Job Search` · `Profile-Based Matching` · `Freshness Filtering` · `Duplicate Detection` · `Scam Checks`
+
+`Python` `APIs` `YAML` `Automation`
+
+<br>
+
+<a href="https://github.com/alinkumar/AI-Job-Search-Automation"><img src="https://img.shields.io/badge/VIEW%20PROJECT-39FF14?style=for-the-badge&labelColor=071A12"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 SaaS Customer Retention & Revenue Intelligence
+
+**SQL • Python • Power BI • Business Intelligence**
+
+A data analytics project focused on SaaS customer retention and revenue performance, combining data analysis with business intelligence to support informed decisions.
+
+**Focus Areas**
+
+`Customer Retention` · `Revenue Intelligence` · `Business Performance` · `Analytics & Reporting`
+
+`SQL` `Python` `Power BI` `Data Analytics`
+
+<br>
+
+<a href="https://github.com/alinkumar/Saas-Customer-Retention-Revenue-Intelligence"><img src="https://img.shields.io/badge/VIEW%20PROJECT-39FF14?style=for-the-badge&labelColor=071A12"/></a>
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
 
 <div align="center">
 
-`7 PROJECTS` &nbsp;•&nbsp; `ML + AI + BI` &nbsp;•&nbsp; `REAL-WORLD USE CASES`
+`9 PROJECTS` &nbsp;•&nbsp; `ML + AI + BI` &nbsp;•&nbsp; `REAL-WORLD USE CASES`
 
 </div>
 
